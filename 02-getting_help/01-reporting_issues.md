@@ -14,3 +14,4 @@ Directions to file a bug report:
  4. Hit the red button labeled, "Submit Bug"
  5. Submit your report.
 	- You will get a email confirming the bug, when we read your report.
+

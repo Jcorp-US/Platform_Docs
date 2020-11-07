@@ -1,6 +1,10 @@
 # What's New? (Release Notes)
 
 
+### Version 1.8.5
+* Fixed some minor bugs.
+* Enhanced customization options so that district logos can be used in place of Platform logo.
+
 ### Version 1.7.3
 * Implemented feature to immediately notify users of incoming message.
 * Implemented feature to indicate number of unread messages.

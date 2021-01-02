@@ -4,14 +4,14 @@
 
 Here is the official declaration: <br>
 Platform LMS <br>
-&copy; 2018-2020, Jcorp Technology LLC <br>
-**All Rights Reserved** <br>
+&copy; 2018-2021, Jcorp Technology LLC <br>
+All Rights Reserved <br>
 
 *This documentation was also written (mostly) by Jcorp, however, we encourage you share it. Thus, this documentation is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).*
 
 Here is the official declaration:<br>
 Platform LMS Documentation<br>
-&copy; 2018-2020, Jcorp Technology LLC<br>
+&copy; 2018-2021, Jcorp Technology LLC<br>
 CC BY-NC-ND 4.0 <br>
 
 *Platform also makes use of certain third-party (sometimes open-source) code. We make no claims of ownership against that code. More imformation is available at our [acknowledgements](#/07-final_notes/02-acknowledgements.md) page.*

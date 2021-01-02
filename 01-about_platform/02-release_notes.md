@@ -1,6 +1,11 @@
 # What's New? (Release Notes)
 
 
+### Version 1.8.7
+* Restyled district custom login page.
+* Change references from 2020 to 2021, where needed. 
+* Grammar fixes.
+
 ### Version 1.8.5
 * Fixed some minor bugs.
 * Enhanced customization options so that district logos can be used in place of Platform logo.

@@ -4,7 +4,7 @@ This is the official Platform documentation, on GitHub. The documentation (also 
 
 If you experience an issue not found here, you may [contact us](https://platformlms.org/contact) or [file a bug report](https://platformlms.org/support/bugs/new). If you want to see a feature not described here, you should add a [feature request](https://platformlms.org/support/features/new). 
 
-This is version **1.3** of this documentation which refers to Platform version **1.8.5**.
+This is version **1.4** of this documentation which refers to Platform version **1.8.7**.
 
 ## Using the GitHub Version
 If you see any mistakes, want to elaborate or make any changes, etc., feel free to fork this repository and then submit a pull request. This documentation is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/), and written (mostly) in Markdown.

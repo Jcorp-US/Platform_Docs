@@ -1,6 +1,10 @@
 # What's New? (Release Notes)
 
 
+### Version 1.9.0
+* Minor style changes. 
+* Bug fixes.
+
 ### Version 1.8.7
 * Restyled district custom login page.
 * Change references from 2020 to 2021, where needed. 
